@@ -4,7 +4,7 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/barbaraNov/barbaraNov/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/header.png"/>
 </div>
 
 -----
