@@ -21,13 +21,13 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </td>
 <td><a href="mailto:barbaraNov@gmail.com" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/gmail2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/java.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/barbaraNov/" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/mysql.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/c.png" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
