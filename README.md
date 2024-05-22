@@ -32,8 +32,12 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </div>
 <div align="justify">
 
-<img src="https://img.icons8.com/?size=60&id=13679&format=png&color=000000"></img>
-<img src="https://img.icons8.com/?size=60&id=UFXRpPFebwa2&format=png&color=000000"></img>
-<img src="https://img.icons8.com/?size=60&id=40670&format=png&color=000000"></img>
+<h2>Tecnologias e ferramentas:</h2>
+<div align="center">
+ <img src="https://img.icons8.com/?size=60&id=13679&format=png&color=000000"></img>
+ <img src="https://img.icons8.com/?size=60&id=UFXRpPFebwa2&format=png&color=000000"></img>
+ <img src="https://img.icons8.com/?size=60&id=40670&format=png&color=000000"></img>
+</div>
+
 
 -----
