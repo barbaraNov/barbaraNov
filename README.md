@@ -19,23 +19,9 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </td>
 <td><a href="mailto:barbaraNov@gmail.com" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/gmail2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/java.png" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://github.com/barbaraNov" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/calendar.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src=" height="50px"/></a>
-</td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/c.png" width="50px" height="50px"/></a>
-</td>
-<!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
-</td>-->
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
