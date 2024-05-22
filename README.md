@@ -23,7 +23,7 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </td>
 <td><a href="https://github.com/barbaraNov" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/calendar.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/mysql.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src=" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/c.png" width="50px" height="50px"/></a>
 </td>
@@ -46,7 +46,8 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </div>
 <div align="justify">
 
-![image](https://github.com/barbaraNov/barbaraNov/assets/161669229/00540e75-d27e-49a4-b051-af53ded61735)
-
+<img src="https://img.icons8.com/?size=60&id=13679&format=png&color=000000"></img>
+<img src="https://img.icons8.com/?size=60&id=UFXRpPFebwa2&format=png&color=000000"></img>
+<img src="https://https://img.icons8.com/?size=60&id=40670&format=png&color=000000"></img>
 
 -----
