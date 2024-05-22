@@ -17,8 +17,6 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 <tr>
 <td><a href="https://github.com/barbaraNov" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/insta2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://replit.com/@aramuni"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/linkedin2.png" width="50px" height="50px"/></a>
-</td>
 <td><a href="mailto:barbaraNov@gmail.com" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/gmail2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/png/java.png" width="50px" height="50px"/></a>
