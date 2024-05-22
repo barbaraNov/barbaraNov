@@ -39,5 +39,10 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
  <img src="https://img.icons8.com/?size=60&id=40670&format=png&color=000000"></img>
 </div>
 
+<h2>Spotify:</h2>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31vxaav7mwt33j6uvsf2cyglocgu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31vxaav7mwt33j6uvsf2cyglocgu" height="500" width="900" alt="Data Card for Spotify">
+</a>
 
 -----
