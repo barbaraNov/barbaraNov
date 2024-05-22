@@ -21,7 +21,7 @@ Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Inform
 </td>
 <td><a href="https://github.com/barbaraNov" target="_blank"><img src="https://github.com/barbaraNov/barbaraNov/blob/main/png/calendar.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src=" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/barbaraNov/" target="_blank"><img src="https://img.icons8.com/?size=60&id=8808&format=png&color=000000" height="50px"/></a>
 </td>
 </tr>
 <tr>
