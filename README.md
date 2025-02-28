@@ -1,4 +1,4 @@
-Ola! Sou a Bárbara tenho 19 anos, moro em BH e estou cursando Sistema da Informação no Centro Universitario Newton Paiva.
+Ola! Sou a Bárbara tenho 20 anos, moro em BH e estou cursando Sistema da Informação no Centro Universitario Newton Paiva.
 Atualmente trabalho em Departamento Financeiro, gerenciando fluxo de finanças da empresa.
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
